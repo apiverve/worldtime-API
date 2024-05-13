@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/worldtime",
+  "version": "1.0.0",
+  "description": "World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/worldtime-API.git"
+  },
+  "keywords": [
+    "time"," world time"," current time"," time zone"," time zone api"," time zone data"," time zone lookup"," time zone lookup api"," time zone lookup data"," time zone lookup tool"," time zone lookup software"," time zone lookup service"," time zone lookup library"," time zone lookup sdk"," time zone lookup code"," time zone lookup script"," time zone lookup program"," time zone lookup application"," time zone lookup app"," time zone lookup tool"," time zone lookup utility"," time zone lookup helper"," time zone lookup helper tool"," time zone lookup helper software"," time zone lookup helper service"," time zone lookup helper library"," time zone lookup helper sdk"," time zone lookup helper code"," time zone lookup helper script"," time zone lookup helper program"," time zone lookup helper application"," time zone lookup helper app"," time zone lookup helper tool"," time zone lookup helper utility"," time zone lookup helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/worldtime-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/worldtime-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
