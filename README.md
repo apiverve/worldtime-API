@@ -81,17 +81,17 @@ api.execute(query, function (error, data) {
         "iso3": "ARG",
         "province": "Córdoba",
         "timezone": "America/Argentina/Cordoba",
-        "time": "12:20",
-        "time24": "12:20:12",
-        "time12": "12:20:12 PM",
-        "date": "2024-07-17",
-        "day": "Wednesday",
-        "month": "July",
+        "time": "00:09",
+        "time24": "00:09:25",
+        "time12": "12:09:25 AM",
+        "date": "2024-08-02",
+        "day": "Friday",
+        "month": "August",
         "year": "2024",
-        "unix": "1721229612",
+        "unix": "1722568165",
         "dst": false,
-        "dst_start": "2024-07-17 12:20:12",
-        "dst_end": "2024-07-17 12:20:12",
+        "dst_start": "2024-08-02 00:09:25",
+        "dst_end": "2024-08-02 00:09:25",
         "dst_name": "-03"
       },
       {
@@ -103,21 +103,22 @@ api.execute(query, function (error, data) {
         "province": "California",
         "state_ansi": "CA",
         "timezone": "America/Los_Angeles",
-        "time": "08:20",
-        "time24": "08:20:12",
-        "time12": "08:20:12 AM",
-        "date": "2024-07-17",
-        "day": "Wednesday",
-        "month": "July",
+        "time": "20:09",
+        "time24": "20:09:25",
+        "time12": "08:09:25 PM",
+        "date": "2024-08-01",
+        "day": "Thursday",
+        "month": "August",
         "year": "2024",
-        "unix": "1721229612",
+        "unix": "1722568165",
         "dst": true,
-        "dst_start": "2024-07-17 08:20:12",
-        "dst_end": "2024-07-17 08:20:12",
+        "dst_start": "2024-08-01 20:09:25",
+        "dst_end": "2024-08-01 20:09:25",
         "dst_name": "PDT"
       }
     ]
-  }
+  },
+  "code": 200
 }
 ```
 
