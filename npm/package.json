@@ -1,0 +1,35 @@
+{
+  "name": "@apiverve/worldtime",
+  "version": "1.1.12",
+  "description": "World Time is a simple tool for getting the current time in any city. It returns the current time, date, and more.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha",
+    "example": "node examples/basic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/worldtime-api.git",
+    "directory": "npm"
+  },
+  "keywords": [
+    "time", "world time", "current time", "time zone", "time zone api"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/worldtime-api/issues"
+  },
+  "homepage": "https://apiverve.com/marketplace/worldtime?utm_source=npm",
+  "devDependencies": {
+    "mocha": "^11.0.1",
+    "chai": "^5.1.2",
+    "dotenv": "^16.4.7"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "promise": "^8.3.0",
+    "axios": "1.13.2"
+  }
+}
